@@ -34,7 +34,7 @@ function Home() {
       <Wrapper>
         <Container>
           <PersonalContainer>
-            <Name>I'm Ricardo Malagon</Name>
+            <Name>{"I'm Ricardo Malagon"}</Name>
 
             <Bio>
               Software engineer with more than 8 years of experience specialized
